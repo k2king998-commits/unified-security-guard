@@ -1,4 +1,4 @@
-# unified-security-guard
+# Skill.md
 ---
 name: unified-self-enforcing-security-guard
 title: Unified Self-Enforcing Security, Privacy, SEO, and Engineering Standard
